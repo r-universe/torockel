@@ -8,3 +8,8 @@
 	url = https://github.com/torockel/imputegeneric
 	shallow = true
 	registered = true
+[submodule "missMethods"]
+	path = missMethods
+	url = https://github.com/torockel/missmethods
+	shallow = true
+	registered = true
