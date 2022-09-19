@@ -2,9 +2,5 @@
   {
     "package": "imputeGeneric",
     "oncran": true
-  },
-  {
-    "package": "missMethods",
-    "oncran": true
   }
 ]
